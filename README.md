@@ -21,8 +21,25 @@ Based on the [LCM paper](https://papers.voltropy.com/LCM) by Ehrlich & Blackman
 OpenClaw. For an interactive visualization of the LCM idea, see
 [losslesscontext.ai](https://losslesscontext.ai/).
 
+## This fork
+
+This is a public fork of
+[stephenschoettler/hermes-lcm](https://github.com/stephenschoettler/hermes-lcm).
+The plugin itself still lives there. CI badges above point at upstream.
+
+The extra change here: an explicit `/new` (or host session reset) drops **that
+conversation's** summary graph, so the next segment cannot inherit it. Raw
+messages stay. Other conversations are left alone. Proposed upstream as
+[PR #625](https://github.com/stephenschoettler/hermes-lcm/pull/625).
+
+Optional extra wiring, if you want markdown facts in a knowledge graph next to
+LCM sqlite:
+[buccaneersalvage/graphify-lcm-hybrid](https://github.com/buccaneersalvage/graphify-lcm-hybrid).
+The plugin runs without it.
+
 ## Table of contents
 
+- [This fork](#this-fork)
 - [What it does](#what-it-does)
 - [LCM vs built-in compression](#lcm-vs-built-in-compression)
 - [Quick start](#quick-start)
