@@ -23,7 +23,11 @@ OpenClaw. For an interactive visualization of the LCM idea, see
 
 ## This fork
 
-This is a public fork of
+<p align="center">
+  <img src="docs/cove-banner.jpg" alt="Treasure map, spyglass, and a galleon at sunset" width="900">
+</p>
+
+A public fork of
 [stephenschoettler/hermes-lcm](https://github.com/stephenschoettler/hermes-lcm).
 The plugin itself still lives there. CI badges above point at upstream.
 
@@ -32,8 +36,8 @@ conversation's** summary graph, so the next segment cannot inherit it. Raw
 messages stay. Other conversations are left alone. Proposed upstream as
 [PR #625](https://github.com/stephenschoettler/hermes-lcm/pull/625).
 
-Optional extra wiring, if you want markdown facts in a knowledge graph next to
-LCM sqlite:
+Want the chart next to the logbook? Optional glue for markdown facts in a
+knowledge graph beside LCM sqlite:
 [buccaneersalvage/graphify-lcm-hybrid](https://github.com/buccaneersalvage/graphify-lcm-hybrid).
 The plugin runs without it.
 
