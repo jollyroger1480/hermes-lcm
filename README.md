@@ -21,6 +21,8 @@ Based on the [LCM paper](https://papers.voltropy.com/LCM) by Ehrlich & Blackman
 OpenClaw. For an interactive visualization of the LCM idea, see
 [losslesscontext.ai](https://losslesscontext.ai/).
 
+Free to use. If it saved you time, tips are welcome: [Cash App](https://cash.app/$jollyroger1480) or Bitcoin `bc1qydycnf5pjhez5d0mrgmmumyv2g5nc63mwet89j`. More links at the [bottom](#support-and-links).
+
 ## This fork
 
 <p align="center">
@@ -892,3 +894,13 @@ for changelogs.
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=stephenschoettler/hermes-lcm&type=timeline&legend=top-left" />
  </picture>
 </a>
+
+## Support and links
+
+This project is free, and a tip is welcome but never expected.
+
+- Tip (Cash App): [$jollyroger1480](https://cash.app/$jollyroger1480)
+- Bitcoin: `bc1qydycnf5pjhez5d0mrgmmumyv2g5nc63mwet89j`
+- eBay store: [Buccaneer Salvage](https://www.ebay.com/str/buccaneersalvage)
+- YouTube: [@BuccaneerSalvage](https://www.youtube.com/@BuccaneerSalvage)
+- X: [@jollyroger1480](https://x.com/jollyroger1480)
