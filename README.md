@@ -11,6 +11,8 @@
 
 > Bounded context, unbounded memory. Nothing is ever lost.
 
+Free to use. If it saved you time, tips are welcome: [Cash App](https://cash.app/$jollyroger1480) or Bitcoin `bc1qydycnf5pjhez5d0mrgmmumyv2g5nc63mwet89j`. More links at the [bottom](#support-and-links).
+
 `hermes-lcm` replaces one-shot active-context compression with a SQLite-backed,
 DAG-based context engine. It keeps the live prompt bounded, preserves raw
 messages, and gives the agent tools to recover exact detail after compaction.
@@ -20,8 +22,6 @@ Based on the [LCM paper](https://papers.voltropy.com/LCM) by Ehrlich & Blackman
 [lossless-claw](https://github.com/martian-engineering/lossless-claw) for
 OpenClaw. For an interactive visualization of the LCM idea, see
 [losslesscontext.ai](https://losslesscontext.ai/).
-
-Free to use. If it saved you time, tips are welcome: [Cash App](https://cash.app/$jollyroger1480) or Bitcoin `bc1qydycnf5pjhez5d0mrgmmumyv2g5nc63mwet89j`. More links at the [bottom](#support-and-links).
 
 ## This fork
 
